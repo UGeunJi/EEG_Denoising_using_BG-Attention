@@ -33,5 +33,5 @@ Our laboratory also proposed an deep learning framework to separate neural singl
 
 ## What is the BG-Attention Network?
 
-(1) BG-Attention algorithm is the first time the RNN and the self-attention network have been used to denoise EEG signals.
+(1) BG-Attention algorithm is the first time the RNN and the self-attention network have been used to denoise EEG signals. <br>
 (2) The network is an end-to-end structure. Without preprocessing or feature extraction, the incoming EEG data is processed directly.
