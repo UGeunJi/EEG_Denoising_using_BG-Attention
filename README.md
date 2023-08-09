@@ -1,4 +1,4 @@
-# ⚡ EEG Denoising using BG-Attention Network :aquarius:
+# ⚡ EEG Denoising with BG-Attention Network :aquarius:
 
 <br>
 
