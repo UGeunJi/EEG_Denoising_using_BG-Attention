@@ -54,7 +54,6 @@ def Novel_CNN(datanum):
     return model
 
 
-
 # 수정 전 code (error 뜸)
 
 '''
