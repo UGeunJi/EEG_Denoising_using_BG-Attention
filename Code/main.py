@@ -112,7 +112,7 @@ saved_model, history = train(model, noiseEEG_train, EEG_train, noiseEEG_val, EEG
                       epochs, batch_size, optimizer, denoise_network, 
                       result_location, foldername , train_num = str(i))                        # steel the show   /   movie soul
 
-denoised_test, test_mse = test_step_for_attention(saved_model, noiseEEG_test, EEG_test)
+# denoised_test, test_mse = test_step_for_attention(saved_model, noiseEEG_test, EEG_test)
 
 # save signal
 save_eeg(saved_model, result_location, foldername, save_train, save_vali, save_test, 
