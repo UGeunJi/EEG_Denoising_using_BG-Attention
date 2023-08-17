@@ -55,6 +55,8 @@ def Novel_CNN(datanum):
 
 
 
+# 수정 전 code (error 뜸)
+
 '''
 def Novel_CNN(datanum):
 
