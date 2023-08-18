@@ -35,3 +35,34 @@ Our laboratory also proposed an deep learning framework to separate neural singl
 
 (1) BG-Attention algorithm is the first time the RNN and the self-attention network have been used to denoise EEG signals. <br>
 (2) The network is an end-to-end structure. Without preprocessing or feature extraction, the incoming EEG data is processed directly.
+
+<br>
+<br>
+
+## Experiment Result
+
+### > RRMSE
+
+![image](https://github.com/UGeunJi/EEG_Denoising_with_BG-Attention_Network/assets/84713532/a11145b5-6813-48bd-8c70-68556d7648a3)
+
+![image](https://github.com/UGeunJi/EEG_Denoising_with_BG-Attention_Network/assets/84713532/e9dbe10c-f091-40be-bf51-b9617a06bfc7)
+
+![image](https://github.com/UGeunJi/EEG_Denoising_with_BG-Attention_Network/assets/84713532/b8f5a42f-0ec8-4ae9-aafb-1045aa7f4417)
+
+![image](https://github.com/UGeunJi/EEG_Denoising_with_BG-Attention_Network/assets/84713532/7a731e14-43a8-4a6d-acdd-245c996cc20a)
+
+![image](https://github.com/UGeunJi/EEG_Denoising_with_BG-Attention_Network/assets/84713532/3a85752b-bf6f-47e5-93e5-6f8f949fec16)
+
+![image](https://github.com/UGeunJi/EEG_Denoising_with_BG-Attention_Network/assets/84713532/dd46bb60-8c0e-438e-bd0d-9de268dced68)
+
+<br>
+
+### > CC
+
+![image](https://github.com/UGeunJi/EEG_Denoising_with_BG-Attention_Network/assets/84713532/df63c51f-1659-433a-ad81-6811d6743f46)
+
+<br>
+
+### > SNR
+
+![image](https://github.com/UGeunJi/EEG_Denoising_with_BG-Attention_Network/assets/84713532/d14e3e0f-4ac4-4d76-882c-d5e671ba641e)
